@@ -20,7 +20,7 @@ Welcome to **Travel_Trove**, a sleek and interactive travel website designed to 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Travel_Trove.git
+    git clone https:/https://github.com/AreejPanhwer/Travel_Trove.git
     ```
 
 2. Navigate to the project directory:
@@ -44,8 +44,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or comments, you can reach me at [your-email@example.com](mailto:your-email@example.com).
-
+For any questions or comments, you can reach me at (areejpanhwer82@gmail.com).
 
 
 Happy travels! 🌟🗺️
